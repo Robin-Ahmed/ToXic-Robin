@@ -1,8 +1,8 @@
 {
-	"name": "ZiaRein",
+	"name": "ToXic-Robin",
 	"version": "1.0.6",
-	"description": "A simple Facebook Messenger Bot By ZiaRein",
-	"main": "ZiaRein.js",
+	"description": "A simple Facebook Messenger Bot By ToXic-Robin",
+	"main": "ToXic-Robin.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -10,24 +10,24 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/Robin-Ahmed/ToXic-Robin/issues"
 	},
 	"keywords": [
 		"bot",
 		"facebook",
 		"projectmirai",
-		"ziarein",
+		"Robin-Ahmed",
 		"mirai",
 		"catalizcs",
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "Zia Rein",
+	"author": "ToXic-Robin",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/Robin-Ahmed/ToXic-Robin/issues"
 	},
-	"homepage": "https://github.com/ZiaRein/ZiaReinBypass/issues",
+	"homepage": "https://github.com/Robin-Ahmed/ToXic-Robin/issues",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
